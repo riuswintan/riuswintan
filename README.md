@@ -1,6 +1,6 @@
 # Hello there! My name is Rius Wintan 👋
 ## A glimpse about me:
-- 👀 I’m interested in Data Science and Data Analysis.
+- 👀 I’m interested in Data Science, Data Analysis, and Business.
 - 🌱 I’m currently learning Machine Learning Modelling, Exploratory Data Analysis, and Data Visualization.
 - 📫 How to reach me through linkedin: https://www.linkedin.com/in/riuswintan/
 
